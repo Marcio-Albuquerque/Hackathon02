@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cidade_de_origem">Cidade de Origem!</string>
+    <string name="cidade_de_destino">Cidade de destino</string>
+    <string name="envio">Envio</string>
+    <string name="twitter_destino">Twitter Destino</string>
+</resources>
